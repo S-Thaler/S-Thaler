@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Stephan 👋
+
+- 🔭 I’m currently working on my PhD at Technial University of Munich
+- 📫 How to reach me: stephan.thaler@tum.de
+- 😄 Pronouns: he/him
+
 
 <!--
 **S-Thaler/S-Thaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
