@@ -1,6 +1,7 @@
 ### Hi there, I'm Stephan 👋
 
-- 🔭 I’m currently working on my PhD at Technial University of Munich
+- 🔭 I’m currently working on my PhD at Technial University of Munich.<br>
+I'm interested in physics-aware machine learning and differentiable physics simulations.
 - 📫 How to reach me: stephan.thaler@tum.de
 - 😄 Pronouns: he/him
 
