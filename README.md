@@ -1,8 +1,8 @@
 ### Hi there, I'm Stephan 👋
 
-- 🔭 I’m currently working on my PhD at Technial University of Munich.<br>
-I'm interested in physics-aware machine learning and differentiable physics simulations.
-- 📫 How to reach me: stephan.thaler@tum.de
+- 🔭 I’m a Reserach Engineer at Valence Labs.<br>
+I'm interested in differentiable molecular dynamics, physics-aware machine learning and drug discovery.
+- 📫 How to reach me: stephan@valencelabs.com
 - 😄 Pronouns: he/him
 
 
