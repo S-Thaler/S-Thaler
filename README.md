@@ -1,7 +1,7 @@
 ### Hi there, I'm Stephan 👋
 
-- 🔭 I’m a Reserach Engineer at Valence Labs.<br>
-I'm interested in differentiable molecular dynamics, physics-aware machine learning and drug discovery.
+- 🔭 I’m a Senior Research Engineer at Valence Labs.<br>
+I'm passionate about physics-informed machine learning, co-folding models, molecular dynamics simulations, and their application to drug discovery.
 - 📫 How to reach me: stephan@valencelabs.com
 - 😄 Pronouns: he/him
 
